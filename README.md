@@ -1,1 +1,1 @@
-# RS-Calculator-2
+https://kichukegor.github.io/RS-Calculator-2/
